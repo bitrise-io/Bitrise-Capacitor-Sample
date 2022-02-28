@@ -1,0 +1,7 @@
+{
+  "name": "Bitrise-Capacitor-Sample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
