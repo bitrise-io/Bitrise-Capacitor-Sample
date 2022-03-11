@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.bitrise.starter',
+  appId: 'com.bitrise.starter',
   appName: 'Bitrise-Capacitor-Sample',
   webDir: 'www',
   bundledWebRuntime: false
